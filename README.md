@@ -80,9 +80,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Contact
 For any queries or collaborations, reach out via:
-- Email: your-email@example.com
-- GitHub: [your-github-profile](https://github.com/your-username)
-- LinkedIn: [your-linkedin-profile](https://linkedin.com/in/your-profile)
+- Email: gorijaladevisaiprasanna@gmail.com
+- GitHub: https://github.com/dsprasanna
+
 
 ---
 Happy Coding! 🚀
