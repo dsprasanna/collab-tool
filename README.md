@@ -20,8 +20,9 @@ CollabTool is a real-time collaborative code editor that allows multiple users t
 collab-tool/
 ├── public/              # Static assets
 ├── src/
-│   ├── components/      # Reusable components (NavBar, CodeEditor, etc.)
 │   ├── assets/          # Static assets like images and styles
+│   ├── NavBar.jsx
+│   ├── CodeEditor.jsx    
 │   ├── App.jsx          # Main application component
 │   ├── index.js         # Entry point
 │   └── styles.css       # Custom styles
